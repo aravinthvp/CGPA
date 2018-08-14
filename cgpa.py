@@ -61,7 +61,7 @@ for i in range(b):
         p[i] = 0 * 3
         
     else:
-        print("error")
+        print("error-1")
 for i in range(c):
     twcsub = input("enter grade (2credit):")
     u.append(twcsub)
