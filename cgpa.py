@@ -3,6 +3,7 @@ p = []
 u = []
 y = []
 
+#inputs
 a = int(input("Enter number of four credit subjects:"))
 b = int(input("Enter number of three credit subjects:"))
 c = int(input("Enter number of two credit subjects:"))
